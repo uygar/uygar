@@ -1,6 +1,6 @@
 ### Hellö Wörld 👋 Ben Uygar. 
 
-Kendi çapında ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ve ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white) geliştiricisiyim.
+Kendi çapında ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ve ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white) geliştiriciyim.
 
 **[@Akbank](https://www.akbank.com)**'ta Deneyimli Yazılım Geliştirici ve Scrum Master olarak çalışıyorum.
 
