@@ -1,11 +1,15 @@
-### Hellö Wörld 👋 Ben Uygar. 
+### Hello World 👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=44DEF7&lines=Yazılım+Geliştirici;)](https://git.io/typing-svg)
+ - 🏢 I'm currently working at **Colendi**.
+ - ⚙️ I use: `.swift`, `.java`, `.dart`
+ - 🌱 Learning all about Flutter
 
-## Ne Öğreniyorum
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uygar&theme=onedark_duo)](https://git.io/streak-stats)
+
+## Learning Now
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## Kullandığım teknolojiler
+## Expertise
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -18,7 +22,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Sosyal
+## Social
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uygarisicelik/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/uuygaar)
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/tr-tr/profile?gamertag=uygaar)
