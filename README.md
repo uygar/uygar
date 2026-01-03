@@ -18,8 +18,8 @@ Build scalable fintech and B2B platforms across mobile and backend systems.
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/twitter-%40uuygaar-black?style=for-the-badge&labelColor=Black&logo=x)](https://x.com/uuygaar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Uygar_Isicelik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uygarisicelik)
-[![GitHub](https://img.shields.io/badge/GitHub-uygar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uygar)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/uuygaar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uygarisicelik)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uygar)
 
 </div>
